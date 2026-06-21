@@ -1,0 +1,6 @@
+{
+  "name": "Room Organizer & Declutterer",
+  "description": "Analyze room photos with Gemini AI to get custom decluttering checklists, reorganization strategies, and direct advice from a digital organization assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
